@@ -1,0 +1,2 @@
+# TradingViewServer
+Python TradingView Feeder
